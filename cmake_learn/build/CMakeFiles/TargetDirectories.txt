@@ -1,0 +1,3 @@
+/home/wind/cmake_learn/build/CMakeFiles/rebuild_cache.dir
+/home/wind/cmake_learn/build/CMakeFiles/main_cmake.dir
+/home/wind/cmake_learn/build/CMakeFiles/edit_cache.dir

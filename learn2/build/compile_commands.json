@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/wind/CODE/learn2/build",
+  "command": "/usr/bin/g++   -I/home/wind/CODE/learn2/include    -Wall -g   -o CMakeFiles/my_cmake_exe.dir/main.cpp.o -c /home/wind/CODE/learn2/main.cpp",
+  "file": "/home/wind/CODE/learn2/main.cpp"
+},
+{
+  "directory": "/home/wind/CODE/learn2/build",
+  "command": "/usr/bin/g++   -I/home/wind/CODE/learn2/include    -Wall -g   -o CMakeFiles/my_cmake_exe.dir/src/Gun.cpp.o -c /home/wind/CODE/learn2/src/Gun.cpp",
+  "file": "/home/wind/CODE/learn2/src/Gun.cpp"
+},
+{
+  "directory": "/home/wind/CODE/learn2/build",
+  "command": "/usr/bin/g++   -I/home/wind/CODE/learn2/include    -Wall -g   -o CMakeFiles/my_cmake_exe.dir/src/Solider.cpp.o -c /home/wind/CODE/learn2/src/Solider.cpp",
+  "file": "/home/wind/CODE/learn2/src/Solider.cpp"
+}
+]

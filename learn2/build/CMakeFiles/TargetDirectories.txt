@@ -1,0 +1,3 @@
+/home/wind/CODE/learn2/build/CMakeFiles/rebuild_cache.dir
+/home/wind/CODE/learn2/build/CMakeFiles/my_cmake_exe.dir
+/home/wind/CODE/learn2/build/CMakeFiles/edit_cache.dir
